@@ -43,7 +43,7 @@ body { background-image: url('../images/background.jpg'); background-color: #555
 #slider #navigation { position: absolute; bottom: 20px; right: 25px; font-size: 30px; font-weight: bold; font-family: sans-serif; }
 #slider #navigation a { text-decoration: none; color: #000; }
 #slider #navigation a:hover { color: #555; }
-#container { width: 1000px; margin: 0 auto; }
+#container { width: 1000px; margin: 0 auto; position: relative; }
 .articlebox { border-radius: 10px; float: left; width: 280px; margin: 20px 0px; padding: 20px; border: none; background-color: #fff; }
 .articlebox h2, .slide .text h2 { font-family: 'Magra', sans-serif; font-weight: normal; font-size: 23px; margin: 10px 0px; }
 #article .date, .articlebox .date, #slider .date { font-size: 10px; text-transform: uppercase; font-family: sans-serif; color: #888; }
@@ -68,7 +68,9 @@ body { background-image: url('../images/background.jpg'); background-color: #555
 .shift div { border-top: 0 !important; }
 .articlebox li { display: block; line-height: 20px; padding: 15px 0 15px 60px; margin-top: 5px; border-bottom: 1px solid #ccc; min-height: 40px; position: relative; }
 .articlebox .nopadding { min-height: 0; padding: 15px 0 15px 0px; }
+.sidebar { position: relative; margin: 0 0 0 20px; }
 .sidebar img { display: block; position: absolute; left: 0; top: 15px; }
+.sidebar .rectangle { margin-top: 50px; }
 .articlebox li:last-child { border-bottom: none; }
 .articlebox .halfpage img { margin: 0px 0px 0px -10px; }
 .articlebox a, #slider a { text-decoration: none; color: #000; }
