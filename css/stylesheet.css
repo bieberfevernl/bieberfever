@@ -9,19 +9,22 @@ img { margin: 0; }
 a img { border: 0px; }
 a { text-decoration: none; }
 
+body, html { height: 100%; }
+
 /* general */
 
 body { background-color: #fff; font-family: Georgia, serif; color: #333; font-size: 13px; line-height: 25px; }
 .clear { clear: both; }
+#background { display: block; position: fixed; top: 0; left: 0; max-width: 100%; max-height: 100%; } 
 
 /* layout */
 
-#topbar { width: 100%; }
+#topbar { width: 100%; position: relative; }
 #nav { width: 961px; margin: 0 auto; }
-#topbar, #nav { font-size: 12px; height: 25px; padding-top: 5px; color: #666; border-bottom: 1px solid #ccc; }
+#topbar, #nav { font-size: 12px; height: 25px; padding-top: 5px; color: #666; background-color: #fff; border-bottom: 1px solid #ccc; }
 #topbar ul, #nav ul { display: block; margin: 0 auto; width: 960px; }
 #topbar li, #nav li { display: block; float: left; margin-right: 20px; height: 26px; }
-#topbar .active, #nav .active { color: #bbb; background-image: url('http://www.iphonenieuws.com/images/pointer.jpg'); background-repeat: no-repeat; background-position: center bottom; }
+#topbar .active, #nav .active { color: #666; background-image: url('images/pointer.jpg'); background-repeat: no-repeat; background-position: center bottom; }
 #topbar .right, #nav .right { float: right; margin: 0; }
 #topbar a, #nav a { color: inherit; text-decoration: none; }
 #topbar a:hover, #nav a:hover { color: #bbb; }
@@ -30,22 +33,20 @@ body { background-color: #fff; font-family: Georgia, serif; color: #333; font-si
 .tooltip img { position: absolute; top: -7px; left: 45px; }
 #pagetitle { display: block; margin: 40px auto 30px auto; width: 960px; }
 #pagetitle img { display: block; margin: 0 auto; width: 348px; height: 62px; }
-.androidnieuws #pagetitle img { width: 379px; height: 136px; }
-.blackberrynieuws #pagetitle img { width: 379px; height: 103px; }
-.nokianieuws #pagetitle img { width: 445px; height: 147px; }
-#leaderboard { margin: 25px auto; width: 728px; height: 90px; overflow: hidden; }
+.bieberfever #pagetitle img { width: 379px; height: 136px; position: relative; }
+#leaderboard { margin: 25px auto; width: 728px; height: 90px; overflow: hidden; position: relative; }
 .rectangle { width: 300px; height: 250px; overflow: hidden; margin: -10px; }
-#slider, .slide { width: 959px; height: 300px; position: relative; }
-#slider { margin: 0 auto; overflow: hidden; border: 1px solid #ccc; border-top: 0; }
+#slider, .slide { width: 1000px; height: 300px; position: relative; }
+#slider { margin: 0 auto; overflow: hidden; border: none; background-color: #fff; border-top: 0; }
 #slides { position: absolute; top: 0; left: 0; height: 320px; }
 .slide { float: left; }
-.slide .text { position: absolute; right: 0px; top: 0px; width: 279px; padding: 20px; height: 250px; }
-.slide img { display: block; position: absolute; top: 10px; left: 10px; }
+.slide .text { position: absolute; right: 0px; top: 0px; width: 280px; padding: 20px; height: 250px; }
+.slide img { display: block; position: absolute; top: 10px; left: 10px; width: 660px; height: 280px; }
 #slider #navigation { position: absolute; bottom: 20px; right: 25px; font-size: 30px; font-weight: bold; font-family: sans-serif; }
 #slider #navigation a { text-decoration: none; color: #000; }
 #slider #navigation a:hover { color: #555; }
-#container { width: 959px; margin: 0 auto; }
-.articlebox { float: left; width: 279px; margin: -1px 0 0 -1px; padding: 20px; border: 1px solid #ccc; }
+#container { width: 1000px; margin: 0 auto; }
+.articlebox { float: left; width: 280px; margin: 20px 0px; padding: 20px; border: none; background-color: #fff; }
 .articlebox h2, .slide .text h2 { font-family: 'Magra', sans-serif; font-weight: normal; font-size: 23px; margin: 10px 0px; }
 #article .date, .articlebox .date, #slider .date { font-size: 10px; text-transform: uppercase; font-family: sans-serif; color: #888; }
 .articlebox .thumb { display: block; margin: 20px auto; }

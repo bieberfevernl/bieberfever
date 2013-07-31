@@ -14,14 +14,14 @@ function mason(div,selector,columns,width) {
             }
          }
          $(this).css({"position":"absolute","top":lowest+"px","left":lowest_id*width+"px"});
-         columnscore[lowest_id] = columnscore[lowest_id] + $(this).outerHeight() - 1;
+         columnscore[lowest_id] = columnscore[lowest_id] + $(this).outerHeight(true) - 1;
       });
       $(div).css({"height":Math.max.apply(Math, columnscore)+"px"});
    }
 }
 
 function callMason() {
-   mason('#container','.articlebox',3,320);
+   mason('#container','.articlebox',3,340);
 }
 function slider(slidewidth) {
    var count = $("#slides .slide").length;
@@ -43,7 +43,7 @@ function slide(count,slidewidth) {
 }
 
 $(document).ready(function() {
-   var slidewidth = 959;
+   var slidewidth = 1000;
    slider(slidewidth);
    $("#slider #navigation #next").click(function() {
       $("#slides").stop(true,false);
