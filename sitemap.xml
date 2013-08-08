@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.bieberfever.nl/</loc>
-<lastmod>2013-08-07</lastmod>
+<lastmod>2013-08-08</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/politie-gaat-vechtpartij-justin-bieber-onderzoeken.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Politie gaat vechtpartij Justin Bieber onderzoeken</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.bieberfever.nl/onderzoek-naar-vechtpartij-bodyguards-justin-bieber.html</loc>
@@ -19,6 +33,20 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-08-07</news:publication_date>
    <news:title>Onderzoek naar vechtpartij bodyguards Justin Bieber</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/onderzoek-naar-vechtpartij-bodyguards-bieber.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-07</news:publication_date>
+   <news:title>Onderzoek naar vechtpartij bodyguards Bieber</news:title>
 </news:news>
 </url>
 <url>
