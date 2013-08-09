@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.bieberfever.nl/</loc>
-<lastmod>2013-08-08</lastmod>
+<lastmod>2013-08-09</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/justin-bieber-in-onderbroek-op-podium.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-09</news:publication_date>
+   <news:title>Justin Bieber in onderbroek op podium</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/justin-bieber-zorgt-voor-hetze-op-twitter-met-kusfoto.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-08-09</news:publication_date>
+   <news:title>Justin Bieber zorgt voor hetze op Twitter met kusfoto</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.bieberfever.nl/justin-bieber-weer-in-opspraak-na-vechtpartij.html</loc>
