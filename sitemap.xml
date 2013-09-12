@@ -3,9 +3,23 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.bieberfever.nl/</loc>
-<lastmod>2013-09-10</lastmod>
+<lastmod>2013-09-12</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/piloot-justin-bieber-wietlucht-was-zo-sterk-dat-ik-zuurstof-nodig-had.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-09-12</news:publication_date>
+   <news:title>Piloot Justin Bieber: Wietlucht was zo sterk dat ik zuurstof nodig had</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.bieberfever.nl/entourage-gebruikt-bieber-voor-soap.html</loc>
