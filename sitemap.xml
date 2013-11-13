@@ -3,7 +3,7 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.bieberfever.nl/</loc>
-<lastmod>2013-11-12</lastmod>
+<lastmod>2013-11-13</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
 </url>
@@ -22,6 +22,20 @@
 </news:news>
 </url>
 <url>
+<loc>http://www.bieberfever.nl/braziliaans-model-noemt-justin-bieber-beest-in-bed-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>Braziliaans model noemt Justin Bieber beest in bed</news:title>
+</news:news>
+</url>
+<url>
 <loc>http://www.bieberfever.nl/braziliaans-model-noemt-justin-bieber-beest-in-bed.html</loc>
 <lastmod>-0001-11-30</lastmod>
 <changefreq>weekly</changefreq>
@@ -33,6 +47,62 @@
    <news:genres>PressRelease, Blog</news:genres>
    <news:publication_date>2013-11-12</news:publication_date>
    <news:title>Braziliaans model noemt Justin Bieber beest in bed</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/justin-bieber-groot-geschapen-en-erg-goed-in-bed.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>'Justin Bieber groot geschapen en erg goed in bed'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/braziliaanse-justin-bieber-is-een-tijger-in-bed.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>Braziliaanse: 'Justin Bieber is een tijger in bed'</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/braziliaanse-justin-bieber-is-een-tijger-in-bed-1.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>Braziliaanse: Justin Bieber is een tijger in bed</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/meisje-open-over-nacht-met-justin-bieber.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-12</news:publication_date>
+   <news:title>Meisje open over nacht met Justin Bieber</news:title>
 </news:news>
 </url>
 <url>
