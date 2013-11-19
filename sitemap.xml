@@ -3,9 +3,37 @@
   xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 <url>
 <loc>http://www.bieberfever.nl/</loc>
-<lastmod>2013-11-18</lastmod>
+<lastmod>2013-11-19</lastmod>
 <changefreq>hourly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/overal-naakte-vrouwen-op-feestje-justin-bieber.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-18</news:publication_date>
+   <news:title>Overal naakte vrouwen op feestje Justin Bieber</news:title>
+</news:news>
+</url>
+<url>
+<loc>http://www.bieberfever.nl/naakte-dames-en-wiet-op-feest-justin-bieber.html</loc>
+<lastmod>-0001-11-30</lastmod>
+<changefreq>weekly</changefreq>
+<news:news>
+   <news:publication>
+      <news:name>Bieber Fever</news:name>
+      <news:language>nl</news:language>
+   </news:publication>
+   <news:genres>PressRelease, Blog</news:genres>
+   <news:publication_date>2013-11-18</news:publication_date>
+   <news:title>'Naakte dames en wiet op feest Justin Bieber'</news:title>
+</news:news>
 </url>
 <url>
 <loc>http://www.bieberfever.nl/bieber-liet-vrienden-contract-tekenen.html</loc>
